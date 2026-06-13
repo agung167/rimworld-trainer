@@ -1,0 +1,15 @@
+<Window x:Class="RimworldTrainer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Rimworld Trainer" Height="200" Width="300">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="StatusLabel" Content="Status: Not connected" Grid.Row="0"/>
+        <Button Content="Add 1000 Silver" Click="AddSilver_Click" Grid.Row="1" Margin="0,10,0,0"/>
+    </Grid>
+</Window>
