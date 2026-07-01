@@ -157,4 +157,4 @@ MIT — Copyright © 2026. See `LICENSE` for details.
 > This software is provided for educational and personal use only. You are solely responsible for compliance with the terms of service of the game's publisher (Ludeon Studios). The developer is not liable for any violations, bans, or damages incurred through the use of this tool.
 
 <p align="center">
-  <a href="https://github.com/agung167/rimworld-trainer/releases
+  <a href="https://github.com/agung167/rimworld-trainer/releases­
